@@ -1,6 +1,6 @@
 import axios from "axios"
 
-let baseURL =  "http://localhost:9000"/*"https://nutsarabia-backend-staging-tiz3i.ondigitalocean.app" */
+let baseURL =  /* "http://localhost:9000" */"https://nutsarabia-backend-staging-tiz3i.ondigitalocean.app"
 
 // deprecated
 if (process.env.GATSBY_STORE_URL) {
